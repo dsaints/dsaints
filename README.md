@@ -20,4 +20,4 @@
 <div></br>
 
 
-Um curioso apaixonado por tecnologia, gosto em ver e saber o motivo dos sistemas funcionarem, gosto de facilitar a vida das pessoas utilizando a programação como auxílio.
+Um curioso apaixonado por tecnologia, gosto de ver e saber o motivo dos sistemas funcionarem, gosto de facilitar a vida das pessoas utilizando a programação como auxílio.
